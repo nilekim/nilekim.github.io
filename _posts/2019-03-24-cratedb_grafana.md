@@ -23,13 +23,19 @@ tag: 博客
 
 ### 安装
 
-**在winodws上安装Cratedb**
+**在Winodws上安装Cratedb**
 
 &ensp;&ensp;在https://crate.io/download/ 下载Tarball.tar.gz，需要在jdk11及以上版本运行。在解压目录bin文件夹下运行crate.bat。
 
+**在Centos上安装Cratedb**
 
+### 使用
 
+**使用Cratedb**
 
+&ensp;&ensp;暂时没有linux云主机，先在本地进行使用。在浏览器上输入localhost:4200，访问管理界面。
+
+![](/images/posts/cratedb_grafana/manager_main.png)
 
 
 
