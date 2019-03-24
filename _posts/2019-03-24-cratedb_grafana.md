@@ -33,12 +33,8 @@ tag: 博客
 
 **使用Cratedb**
 
-&ensp;&ensp;暂时没有linux云主机，先在本地进行使用。在浏览器上输入localhost:4200，访问管理界面。
+&ensp;&ensp;先在本地进行使用。在浏览器上输入localhost:4200，访问管理界面。
 
 ![](/images/posts/cratedb_grafana/manager_main.png)
-
-
-
-
 
 
